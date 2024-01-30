@@ -22,11 +22,8 @@ Developing a comprehensive sales dashboard to enable data-driven decision-making
 - Superstore sales data from [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ### Tools
-- Microsoft Excel 19.3 - Download [Excel file]() to view dashboard
+- Microsoft Excel 19.3 - Download [Excel file](./Superstore.xlsx) to view the dashboard
 
 ### Dashboard
-![Home](images/)
+![Dashboard](images/dashboard.png)
 
-### Attributions
-- Icons:
-  - Total revenue icon: <a href="https://www.flaticon.com/free-icons/deposit" title="deposit icons">Deposit icons created by Freepik - Flaticon</a>
