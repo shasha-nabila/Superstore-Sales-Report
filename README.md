@@ -22,7 +22,7 @@ Developing a comprehensive sales dashboard to enable data-driven decision-making
 - Superstore sales data from [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ### Tools
-- Microsoft Excel 19.3 - Download [Excel file](./Superstore.xlsx) to view the dashboard
+- Microsoft Excel 2013 - Download [Excel file](./Superstore.xlsx) to view the dashboard
 
 ### Dashboard
 ![Dashboard](images/dashboard.png)
